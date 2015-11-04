@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="acion_settings">Settings</string>       
+      <string-array name="temperatura">
+    <item>Celsiuse</item>
+    <item>Fahrenheite</item>
+     <item>Kelvine</item>
+       </string-array>
+       
+       <string-array name="masa">
+    <item>Kilograms</item>
+    <item>Pounds</item>
+     <item>Grams</item>
+       </string-array>
+       
+
+       
+       <string-array name="data">
+    <item>Megabyte</item>
+    <item>Kilobyte</item>
+     <item>Gigabyte</item>
+     </string-array>
+     
+          <string-array name="duljina">
+    <item>Metres</item>
+    <item>Inches</item>
+     <item>Feets</item>
+       </string-array>
+         
+</resources>
